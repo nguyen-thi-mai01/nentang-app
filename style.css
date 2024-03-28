@@ -1,0 +1,28 @@
+body {
+    margin: 0; /* Remove default browser margins */
+    font-family: Arial, sans-serif; /* Set a clean, readable font */
+    background-color: #f5f5f5; /* Light background color */
+  }
+  
+  /* Container Styles */
+  .container {
+    width: 80%; /* Set a reasonable width for most screens */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 2rem; /* Add some padding for breathing room */
+    text-align: center; /* Center text within the container */
+  }
+  
+  /* Heading Styles */
+  h1 {
+    font-size: 2.5rem; /* Increase heading size */
+    font-weight: bold; /* Make heading bold */
+    color: #333; /* Darker color for better contrast */
+    margin-bottom: 1rem; /* Add some space after the heading */
+  }
+  
+  /* Paragraph Styles */
+  p {
+    line-height: 1.5; /* Increase line spacing for readability */
+    color: #666; /* Slightly lighter color for body text */
+    font-size: 1rem; /* Adjust paragraph font size */
+  }
